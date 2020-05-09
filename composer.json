@@ -1,5 +1,5 @@
 {
-    "name": "voyager-bread-generator-fork",
+    "name": "muhamed-didovic/voyager-bread-generator",
     "description": "Create BREAD from the console using artisan",
     "type": "library",
     "version": "1.1.4",
