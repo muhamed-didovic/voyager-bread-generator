@@ -16,19 +16,19 @@
     ],
     "autoload": {
         "psr-4": {
-          "VoyagerBread\\": "src/"
+            "VoyagerBread\\": "src/"
         }
-      },
-      "extra": {
+    },
+    "extra": {
         "hook": {
-          "providers": [
-            "VoyagerBread\\BreadGeneratorServiceProvider"
-          ]
+            "providers": [
+                "VoyagerBread\\BreadGeneratorServiceProvider"
+            ]
         },
         "laravel": {
             "providers": [
                 "VoyagerBread\\BreadGeneratorServiceProvider"
             ]
         }
-      }
+    }
 }
