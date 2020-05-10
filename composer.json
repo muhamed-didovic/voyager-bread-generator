@@ -1,5 +1,5 @@
 {
-    "name": "voyager-bg-updated",
+    "name": "muhameddidovic/voyager-bg-updated",
     "description": "Create BREAD from the console using artisan updated",
     "tags": ["voyager", "bread generator"],
     "type": "library",
