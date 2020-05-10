@@ -8,7 +8,8 @@
         "tcg/voyager": "^1.0"
     },
     "require-dev": {
-        "laravel/laravel": "^7.0"
+        "laravel/laravel": "^7.0",
+        "larapack/hooks": "~1.0"
     },
     "license": "MIT",
     "authors": [
