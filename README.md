@@ -81,3 +81,11 @@ If you created new model and migration, don't forget to run the migration.
 php artisan migrate
 ```
 
+## Credits
+
+- [Muhamed Didovic][link-author]
+- [Goran Radosevic][link-goran]
+
+
+[link-author]: https://github.com/muhamed-didovic
+[link-goran]: https://github.com/gradosevic
