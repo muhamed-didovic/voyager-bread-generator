@@ -3,7 +3,6 @@
     "description": "Create BREAD from the console using artisan updated",
     "tags": ["voyager", "bread generator"],
     "type": "library",
-    "version": "1.0.0",
     "require": {
         "tcg/voyager": "^1.0"
     },
